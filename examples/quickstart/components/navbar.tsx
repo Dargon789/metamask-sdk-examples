@@ -20,8 +20,6 @@ export function Navbar() {
 
   const connector = connectors[0];
 
-  console.log(chain);
-
   return (
     <nav className="flex w-full px-3 md:px-0 h-fit py-10 justify-between items-center">
       <Image
@@ -34,7 +32,7 @@ export function Navbar() {
       {isConnected ? (
         <div className="flex-col md:flex-row flex gap-2">
           <DropdownMenu>
-            <DropdownMenuTrigger className="bg-white h-fit md:px-3 py-2 rounded-2xl font-semibold flex items-center gap-1">
+            <DropdownMenuTrigger className="bg-white h-fit md:px-3 py-2 rounded-2xl font-semibold flex justify-center  items-center gap-1">
               {chain?.name.split(" ").slice(0, 2).join(" ")} <ChevronDown />
             </DropdownMenuTrigger>
             <DropdownMenuContent className="w-full justify-center rounded-2xl">
