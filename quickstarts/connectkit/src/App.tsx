@@ -9,7 +9,7 @@ function App() {
       </div>
       <h1>MetaMask SDK ConnectKit Quickstart</h1>
       <p className="read-the-docs underline">
-        <a href="https://docs.metamask.io/sdk/" target="_blank">
+        <a href="https://docs.metamask.io/sdk/" target="_blank" rel="noopener noreferrer">
           SDK Documentation
         </a>
       </p>
