@@ -16,7 +16,7 @@ function App() {
       <footer className="source-code-link">
         <a
           href="https://github.com/MetaMask/metamask-sdk-examples/tree/main/quickstarts/connectkit"
-          target="_blank"
+          target="_blank" rel="noopener noreferrer"
         >
           Source code
         </a>
