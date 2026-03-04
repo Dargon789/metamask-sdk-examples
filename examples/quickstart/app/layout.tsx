@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { headers } from "next/headers";
 import { cookieToInitialState } from "wagmi";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { getConfig } from "@/wagmi.config";
 import { Providers } from "./providers";
@@ -43,6 +44,7 @@ export default async function RootLayout({
             {children}
           </Providers>
         </main>
+        <Analytics />
       </body>
     </html>
   );
