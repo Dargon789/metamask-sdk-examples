@@ -12,7 +12,7 @@ export const Hero = () => {
         <h1 className="text-7xl text-zinc-100 font-bold">Welcome</h1>
         <p className="text-white opacity-70 text-center text-lg">
           to the <strong>MetaMask SDK</strong> quick start app!
-          <br /> Add your functinality.
+          <br /> Add your functionality.
         </p>
         <Image
           src="/arrow.svg"
