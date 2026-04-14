@@ -33,7 +33,7 @@ This monorepo contains various example applications demonstrating the integratio
   <li><a href="quickstarts/react"><strong>React Example</strong></a>: Modern React application showcasing hooks and components</li>
   <li><a href="quickstarts/next"><strong>Next.js Example</strong></a>: Server-side rendering and static site generation</li>
   <li><a href="quickstarts/javascript"><strong>JavaScript Example</strong></a>: Pure JavaScript implementation without frameworks</li>
-  <li><a href="#"><strong>React Native Example</strong></a>: React Native integration example</li>
+  <li><a href="quickstarts/react-native"><strong>React Native Example</strong></a>: React Native integration example</li>
   <li><a href="quickstarts/wagmi"><strong>Wagmi Example</strong></a>: Wagmi integration example</li>
   <li><a href="quickstarts/rainbowkit"><strong>RainbowKit Example</strong></a>: RainbowKit integration example</li>
 </ul>
