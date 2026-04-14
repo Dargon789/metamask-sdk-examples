@@ -74,9 +74,7 @@ pnpm <span class="nb">install</span> <span class="o">&amp;&amp;</span> pnpm dev
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npx degit MetaMask/metamask-sdk-examples/quickstarts/wagmi mm-sdk-wagmi-quickstart <span class="o">&amp;&amp;</span> <span class="nb">cd </span>mm-sdk-wagmi-quickstart <span class="o">&amp;&amp;</span> npm <span class="nb">install</span> <span class="o">&amp;&amp;</span> npm run dev
 </code></pre></div>    </div>
   </li>
-  <li>
-    <p><a href="quickstarts/rainbowkit"><strong>RainbowKit Example</strong></a>:</p>
-
+  <li><a href="quickstarts/rainbowkit"><strong>RainbowKit Example</strong></a>:
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npx degit MetaMask/metamask-sdk-examples/quickstarts/rainbowkit mm-sdk-rainbowkit-quickstart <span class="o">&amp;&amp;</span> <span class="nb">cd </span>mm-sdk-rainbowkit-quickstart <span class="o">&amp;&amp;</span> npm <span class="nb">install</span> <span class="o">&amp;&amp;</span> npm run dev
 </code></pre></div>    </div>
   </li>
