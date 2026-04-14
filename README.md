@@ -1,5 +1,4 @@
-<h2 id="-getting-started">🚀 MetaMask SDK Examples Monorepo </h2>
-MetaMask SDK Examples Monorepo
+<h1 id="metamask-sdk-examples-monorepo">🚀 MetaMask SDK Examples Monorepo</h1>
 This monorepo contains various example applications demonstrating the integration of MetaMask SDK across different frameworks, platforms and partners.
 
 <h2 id="-getting-started">🚀 Getting Started</h2>
