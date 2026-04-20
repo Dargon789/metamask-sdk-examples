@@ -94,7 +94,7 @@ To run the application locally, follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/MetaMask/metamask-sdk.git
+   git clone https://github.com/MetaMask/metamask-sdk-examples.git
    ```
 
 2. **Navigate to the project directory**
