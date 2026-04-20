@@ -100,7 +100,7 @@ To run the application locally, follow these steps:
 2. **Navigate to the project directory**
 
    ```bash
-   cd quickstart-app
+   cd quickstart
    ```
 
 3. **Install dependencies**
